@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_shop"]=self["webpackChunkweb_shop"]||[]).push([[976],{6976:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var r=n(6252);function u(e,t,n,u,a,d){return(0,r.wg)(),(0,r.iD)("div",null,"Đổi mật khẩu")}var a={data(){return{}},props:[],methods:{},created(){},mounted(){}},d=n(3744);const s=(0,d.Z)(a,[["render",u],["__scopeId","data-v-06b002d0"]]);var o=s}}]);
+//# sourceMappingURL=976.983a4db5.js.map

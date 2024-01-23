@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_shop"]=self["webpackChunkweb_shop"]||[]).push([[933],{6933:function(e,n,r){r.r(n),r.d(n,{default:function(){return d}});var t=r(6252);function u(e,n,r,u,a,o){return(0,t.wg)(),(0,t.iD)("div",null,"Thông báo")}var a={data(){return{}},props:[],methods:{},created(){},mounted(){}},o=r(3744);const s=(0,o.Z)(a,[["render",u],["__scopeId","data-v-5232af01"]]);var d=s}}]);
+//# sourceMappingURL=933.d00d7761.js.map
